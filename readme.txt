@@ -1,2 +1,2 @@
-Git is new software toyou
-Git is good study 
+Git is new software to
+Git is good study power
